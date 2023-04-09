@@ -71,8 +71,8 @@ def gui_main():
                 try:
 
                     con=pymysql.connect(host='localhost',
-                                        user='root',
-                                        password='Tushar@280702')
+                                        user='',
+                                        password='')# put your PyMySql credentiials
                     
                     mycursor=con.cursor()
                 except:

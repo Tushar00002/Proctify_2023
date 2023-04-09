@@ -39,8 +39,8 @@ def gui():
         else:
             try:
                 con=pymysql.connect(host='localhost',
-                                        user='root',
-                                        password='Tushar@280702')
+                                        user='#####',
+                                        password='#######')
                 mycursor=con.cursor()
             except:
                 messagebox.showerror('Error','Connection is not estabilished try again')

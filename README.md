@@ -4,7 +4,7 @@ Project Name : Proctify
 
 Proctify : An app built to detect any sort of malpractice while short online quizes and other exams
 
-Techstack : Python-38
+Techstack : Python
     
 Libraries : 
    Open-cv

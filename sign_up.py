@@ -47,8 +47,8 @@ def signup():
         try:
 
             con=pymysql.connect(host='localhost',
-                                user='root',
-                                password='Tushar@280702')
+                                user='',
+                                password='')
             
             mycursor=con.cursor()
         except:
