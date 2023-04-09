@@ -31,6 +31,13 @@ Group Members:
    Aditya Omar
    Arpit Mittal
 
+How To Run: 
+  -> Make a venv using Python -m venv venv
+  -> Activate the venv using venv/Scripts/activate
+  -> Install all the above mentioned libraries
+  -> Activate your MySQL
+  -> Start login.py
+
 
 
 
